@@ -1,17 +1,1 @@
-{
-    "users": {
-        "R001": {
-            "api_key": "ABC123XYZ",
-            "created": "2025-01-01",
-            "expired": "2025-12-31",
-            "status": "active"
-        },
-        "RB825C4": {
-            "api_key": "FFE336CB4F7949C1A85A",
-            "owner": "heru",
-            "created": "2025-11-17",
-            "expired": "2025-12-12",
-            "status": "active"
-        }
-    }
-}
+
